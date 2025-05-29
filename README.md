@@ -55,11 +55,6 @@ pip install -r requirements.txt
 ```
 
 5. Переименуйте файл .env.example в корне проекта в .env и вставьте в него значения в константы.
-```
-
-Windows and git bash:
-pip install -r requirements.txt
-```
 
 
 6. Сделайте миграции:
